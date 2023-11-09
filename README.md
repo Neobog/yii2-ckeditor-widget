@@ -17,12 +17,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require 2amigos/yii2-ckeditor-widget
+composer require neobog/yii2-ckeditor-widget
 ```
 or add
 
 ```json
-"2amigos/yii2-ckeditor-widget" : "~2.1"
+"neobog/yii2-ckeditor-widget" : "~2.1"
 ```
 
 to the require section of your application's `composer.json` file.
